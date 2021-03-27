@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "game_3_function_version/1.0.0": {
+        "runtime": {
+          "game_3_function_version.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "game_3_function_version/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
