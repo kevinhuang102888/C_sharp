@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\game_3_function_version\game_3_function_version\bin\Debug\netcoreapp3.1\game_3_function_version.exe
+C:\Users\user\source\repos\game_3_function_version\game_3_function_version\bin\Debug\netcoreapp3.1\game_3_function_version.deps.json
+C:\Users\user\source\repos\game_3_function_version\game_3_function_version\bin\Debug\netcoreapp3.1\game_3_function_version.runtimeconfig.json
+C:\Users\user\source\repos\game_3_function_version\game_3_function_version\bin\Debug\netcoreapp3.1\game_3_function_version.runtimeconfig.dev.json
+C:\Users\user\source\repos\game_3_function_version\game_3_function_version\bin\Debug\netcoreapp3.1\game_3_function_version.dll
+C:\Users\user\source\repos\game_3_function_version\game_3_function_version\bin\Debug\netcoreapp3.1\game_3_function_version.pdb
+C:\Users\user\source\repos\game_3_function_version\game_3_function_version\obj\Debug\netcoreapp3.1\game_3_function_version.csprojAssemblyReference.cache
+C:\Users\user\source\repos\game_3_function_version\game_3_function_version\obj\Debug\netcoreapp3.1\game_3_function_version.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\game_3_function_version\game_3_function_version\obj\Debug\netcoreapp3.1\game_3_function_version.AssemblyInfo.cs
+C:\Users\user\source\repos\game_3_function_version\game_3_function_version\obj\Debug\netcoreapp3.1\game_3_function_version.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\game_3_function_version\game_3_function_version\obj\Debug\netcoreapp3.1\game_3_function_version.dll
+C:\Users\user\source\repos\game_3_function_version\game_3_function_version\obj\Debug\netcoreapp3.1\game_3_function_version.pdb
+C:\Users\user\source\repos\game_3_function_version\game_3_function_version\obj\Debug\netcoreapp3.1\game_3_function_version.genruntimeconfig.cache
